@@ -22,7 +22,7 @@ Input(user gives value): -5
 Output: -5
 */
 
-#include<iostream.h>
+#include<iostream>
 using namespace std;
 
 int main(){
